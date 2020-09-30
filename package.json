@@ -1,0 +1,16 @@
+{
+  "name": "multer-example",
+  "version": "1.0.0",
+  "description": "이 저장소의 코드는\r [http://a-mean-blog.com/ko/blog/단편강좌/_/Node-JS-Multer로-파일-업로드](http://a-mean-blog.com/ko/blog/단편강좌/_/Node-JS-Multer로-파일-업로드)에서 작성되었습니다.\r <br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
